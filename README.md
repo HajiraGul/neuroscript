@@ -182,7 +182,7 @@ https://your-demo-video-link.com
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/neuroscript.git
+git clone https://github.com/HajiraGul/neuroscript.git
 ```
 
 Navigate to the project directory
