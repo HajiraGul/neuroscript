@@ -146,18 +146,6 @@ This bridges the gap between technical AI predictions and understandable healthc
 
 ---
 
-# 🎥 Live Demo
-
-Watch the complete project demonstration here.
-
-▶️ **Demo Video**
-
-https://your-demo-video-link.com
-
-> Replace the above link with your YouTube, Google Drive, or LinkedIn demo video.
-
----
-
 # 🚀 Installation
 
 Clone the repository
