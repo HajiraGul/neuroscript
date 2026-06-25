@@ -131,37 +131,16 @@ This bridges the gap between technical AI predictions and understandable healthc
 
 ---
 
-# 📷 Screenshots
-
-> Add your application screenshots inside an **images/** folder.
-
-## 🏠 Home Screen
-
-![Home](images/home.png)
-
----
-
-## ✍️ Interactive Writing Canvas
-
-![Canvas](images/canvas.png)
-
----
-
-## ⚡ Real-Time Prediction
-
-![Prediction](images/realtime_prediction.png)
-
----
-
-## 📊 SHAP & LIME Explanation
-
-![XAI](images/xai.png)
-
----
-
-## 📄 AI Diagnostic Report
-
-![Report](images/report.png)
+# 📷 Screenshots<img width="1600" height="871" alt="WhatsApp Image 2026-06-25 at 3 00 21 PM (2)" src="https://github.com/user-attachments/assets/2227f86b-459e-4666-a26a-a8368dbb4dc0" />
+<img width="1600" height="865" alt="WhatsApp Image 2026-06-25 at 2 34 14 PM" src="https://github.com/user-attachments/assets/cd300a98-fdcb-4f75-ab9f-37f0ce8d9592" />
+<img width="1600" height="630" alt="WhatsApp Image 2026-06-25 at 2 34 15 PM" src="https://github.com/user-attachments/assets/36abd5bc-fdf7-4a83-8006-a177fb0b16a4" />
+<img width="1600" height="861" alt="WhatsApp Image 2026-06-25 at 2 34 15 PM (1)" src="https://github.com/user-attachments/assets/dffd551b-bd9c-42d3-9836-e1d54dcd1220" />
+<img width="1600" height="867" alt="WhatsApp Image 2026-06-25 at 2 34 15 PM (2)" src="https://github.com/user-attachments/assets/f65a2575-7007-4c93-9b86-8e5517d221ac" />
+<img width="1600" height="856" alt="WhatsApp Image 2026-06-25 at 3 00 20 PM" src="https://github.com/user-attachments/assets/f0d5e3d8-7a3b-4cba-b2dd-a754678ad682" />
+<img width="1600" height="864" alt="WhatsApp Image 2026-06-25 at 3 00 20 PM (1)" src="https://github.com/user-attachments/assets/5f98e6dc-861d-4e7b-83ec-dc5a30239c44" />
+<img width="1600" height="865" alt="WhatsApp Image 2026-06-25 at 3 00 21 PM" src="https://github.com/user-attachments/assets/a36dc235-8045-450b-baea-4cfbf1e0f64f" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-25 at 3 00 21 PM (1)" src="https://github.com/user-attachments/assets/7d8fe1ed-9cc2-47a2-9886-1ad2500aaa3e" />
+<img width="1600" height="871" alt="WhatsApp Image 2026-06-25 at 3 00 21 PM (2)" src="https://github.com/user-attachments/assets/81dba3c1-a746-4da0-9c38-0d6c7e604297" />
 
 ---
 
