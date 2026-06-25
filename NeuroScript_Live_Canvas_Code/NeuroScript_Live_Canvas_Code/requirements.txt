@@ -1,0 +1,16 @@
+streamlit
+streamlit-drawable-canvas
+streamlit-autorefresh
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+joblib
+shap
+lime
+Pillow
+scikit-image
+google-generativeai
+python-dotenv

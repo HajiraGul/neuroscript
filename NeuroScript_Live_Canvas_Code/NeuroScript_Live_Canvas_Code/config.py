@@ -1,0 +1,21 @@
+import os
+BASE_DIR=os.path.dirname(os.path.abspath(__file__))
+DATASET_DIR=os.path.join(BASE_DIR,'dataset')
+NORMAL_DIR=os.path.join(DATASET_DIR,'normal')
+OCD_DIR=os.path.join(DATASET_DIR,'ocd_like')
+ADHD_DIR=os.path.join(DATASET_DIR,'adhd_like')
+MODEL_DIR=os.path.join(BASE_DIR,'saved_models')
+OUTPUT_DIR=os.path.join(BASE_DIR,'outputs')
+TEMP_DIR=os.path.join(BASE_DIR,'temp_uploads')
+RF_MODEL_PATH=os.path.join(MODEL_DIR,'random_forest.pkl')
+SVM_MODEL_PATH=os.path.join(MODEL_DIR,'svm.pkl')
+CNN_MODEL_PATH=os.path.join(MODEL_DIR,'cnn_model.h5')
+SCALER_PATH=os.path.join(MODEL_DIR,'scaler.pkl')
+METRICS_PATH=os.path.join(OUTPUT_DIR,'model_comparison.csv')
+CONFUSION_MATRIX_PATH=os.path.join(OUTPUT_DIR,'confusion_matrix.png')
+SHAP_PATH=os.path.join(OUTPUT_DIR,'shap_summary.png')
+LIME_PATH=os.path.join(OUTPUT_DIR,'lime_explanation.png')
+IMAGE_SIZE=64
+NUM_CLASSES=3
+CLASS_NAMES={0:'Normal',1:'OCD-like Handwriting Indicator',2:'ADHD-like Handwriting Indicator'}
+FEATURE_NAMES=['Ink Density','Components','Avg Component Area','Std Component Area','Horizontal Variation','Vertical Variation','Width','Height','Aspect Ratio','Stroke Thickness']

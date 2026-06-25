@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Random Forest,0.7,0.74,0.7,0.7
+SVM,0.8,0.8,0.8,0.8
+CNN,0.6,0.6,0.6,0.5733
